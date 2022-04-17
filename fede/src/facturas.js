@@ -5,3 +5,4 @@ const factura = [
     {id:1, sucuersal:4, numero:50, importe:4000},
 ]
 
+export {factura};
