@@ -1,0 +1,17 @@
+{
+  "type":"module",
+  "name": "sabri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start":"node ./main/index.js",
+    "test": "node ./test/test.js "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
